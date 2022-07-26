@@ -30,34 +30,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
 </div>
-
-<div id="github">
-  <h2>📈 My GitHub Stats and Projects </h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=danilopacker&show_icons=true&theme=gruvbox" title="Stats" **alt="Stats" width="500" height="300"/>
-  </div>
-  <div  align="center">
-    <p><b>My Learning Projects</b></p>
-      <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=Javascript-Basics&theme=gruvbox&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-      <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=GendalfTribute&theme=gruvbox&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  </div>
-</div>
-<h2> </h2>
-<div id="quote" align="center">
-  <figure>
-    <blockquote>
-        <p>What embitters the world is not excess of criticism, but an absence of self-criticism.</p>
-    </blockquote>
-    <figcaption>G.K. Chesterton </figcaption>
-  </figure>
-</div>
-
 ---
 <p align="center"> © 2022 Made with ❤️. </p>
 <p align="center">
 </p>
-
-## Hi there 👋
 
 <!--
 
