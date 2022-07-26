@@ -30,7 +30,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
 </div>
----
+
 <p align="center"> © 2022 Made with ❤️. </p>
 <p align="center">
 </p>
